@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tajmul Hossain</h1>
+<h1 align="center">Hi I'm Tajmul Hossain</h1>
 <h3 align="center">I'm a passionate Front-End Developer who enjoys building modern, responsive, and user-friendly web applications. Currently, I'm focusing on improving my React, Next.js, and backend development skills while preparing for Front-End Developer opportunities. I enjoy solving problems, learning new technologies, and writing clean, maintainable code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tajmulhossaindev&label=Profile%20views&color=0e75b6&style=flat" alt="tajmulhossaindev" /> </p>
