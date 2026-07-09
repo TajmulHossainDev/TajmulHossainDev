@@ -5,7 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tajmulhossaindev" alt="tajmulhossaindev" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScript - Advanced Next.js - Backend Architecture (Express.js & MongoDB) - Preparing for Front-End Developer Opportunities**
+- 🌱 I’m currently learning **🌱 Currently Learning
+• TypeScript
+• Data Structures & Algorithms
+• Advanced Next.js
+• Backend Architecture**
 
 - 📫 How to reach me **tajmulhossain6991@gmail.com**
 
